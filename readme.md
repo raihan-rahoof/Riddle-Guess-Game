@@ -39,3 +39,4 @@ This Python-based text adventure game challenges players with riddles, weapon ch
 4. Run the game using the command: 
    ```bash
    python game.py
+5. Try Here [Try](https://colab.research.google.com/drive/1IOu-kOGXRuG7VYhGKnQ7xn1XjUyxNbfj?usp=sharing)
